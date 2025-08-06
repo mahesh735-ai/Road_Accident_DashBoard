@@ -1,7 +1,6 @@
 # 🚗 Road Accident Data Analysis Dashboard in Excel
 
-![Road Accident Dashboard](./Screenshot%20(237).png)
-![Road Accident Dashboard](./Screenshot%20(238).png)
+![Road Accident Dashboard](RA_Dashboard.png)
 
 ## 📊 Project Overview
 
@@ -17,7 +16,7 @@ This Excel-based dashboard visualizes **road accident data** to uncover key insi
 
 - **Data Analysis Sheet**: Pivot tables powering the dashboard with all cleaned data and calculated metrics.
 
-![Data Analysis Sheet](./Screenshot%20(238).png)
+![Data Analysis Sheet](RA_Data_analysis_SS.png)
 
 ---
 
@@ -53,6 +52,5 @@ The goal of this project is to enhance Excel reporting skills, visualize real-wo
 - 👨‍💻 GitHub: [mahesh735-ai](https://github.com/mahesh735-ai)  
 - 💼 LinkedIn: [Mahesh Thakare](https://www.linkedin.com/in/mahesh-thakare-75817b2a7)
 
----
 
 
